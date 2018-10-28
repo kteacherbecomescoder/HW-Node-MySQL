@@ -29,7 +29,7 @@ let displayInventory = () => {
             console.log(" - - - - - - - - - - - - - - - ")
             console.log("item number: " + res[i].item_id)
             console.log("item: " + res[i].product_name)
-            console.log("price: $" + res[i].price)
+            console.log("item cost: $" + res[i].price)
         }
         purchase()
     })
