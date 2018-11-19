@@ -23,8 +23,8 @@
     * asks user to modify the order or select another item
 ![ScreenShot](screenshots/unfilled.png "Prompts for ID and how many.")
 
-* It must be ran in the command line.
-* Type in node main.js to start the app.
+* It must be run in the command line.
+* Type in node bamazonCustomer.js to start the app.
 
 * These are the npm packages I used and are needed to run the app
 
